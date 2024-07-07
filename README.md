@@ -1,4 +1,4 @@
-# dbms
+# DATABASE CONTROL SYSTEM 
 
 ## Project setup
 ```
